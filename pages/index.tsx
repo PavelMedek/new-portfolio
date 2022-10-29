@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import type { GetServerSideProps, GetStaticProps } from "next";
+import type { GetStaticProps } from "next";
 import Head from "next/head";
 import Link from "next/link";
 import About from "../components/About";
